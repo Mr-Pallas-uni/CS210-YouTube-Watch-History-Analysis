@@ -1,7 +1,7 @@
 # YouTube Watch History Analysis
 
 ## Overview
-This project involves analyzing your YouTube watch history using the YouTube Data API v3. It includes retrieving video details, creating visualizations, and building a machine learning model to predict whether you are subscribed to the channels of the watched videos.
+This project involves analyzing my YouTube watch history using the YouTube Data API v3. It includes retrieving video details, creating visualizations, and building a machine learning model to predict whether you are subscribed to the channels of the watched videos. It is for the course CS210 Introduction to Data Science, Sabancı University.
 
 ## Project Structure
 1. **Authentication:** The `authenticate()` function in the script is used to authenticate and obtain credentials for accessing the YouTube Data API.
@@ -75,5 +75,3 @@ This project involves analyzing your YouTube watch history using the YouTube Dat
 ## Acknowledgments
 - This project uses the YouTube Data API v3.
 - Special thanks to the developers of the libraries used in this project.
-
-Feel free to contribute, report issues, or suggest improvements. Happy coding!
