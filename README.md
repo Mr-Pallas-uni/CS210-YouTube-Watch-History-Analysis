@@ -1,3 +1,5 @@
+#WARNING: This is a fork of the original, it is messier, and harder to understand than the original. If you do not require the proper detection of ads, then use the original.
+
 # YouTube Watch History Analysis
 
 ## https://www.youtube.com/watch?v=7PzpofqbK7s
